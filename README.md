@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Stellich
 - 👀 I’m interested in coding and cooking
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m so obsessed with Python
 
 <!---
 Stellich/Stellich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
